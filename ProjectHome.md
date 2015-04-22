@@ -1,0 +1,1 @@
+I found guice is a amazing tool for DI. But it's done by Java, one of my project is using C# on .NET platform. So I want to migrate Guice to C#, of course I will follow Apache Licese 2.0 to publish this project.
